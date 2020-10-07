@@ -5,7 +5,7 @@ function login()
 		if(uname =='markhinsblr')
 		{
             
-            window.location = "/index1.html";
+            window.location = "index1.html";
 		}
 		else 
 		{
